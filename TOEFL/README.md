@@ -17,3 +17,9 @@ Readlang + Quizlet 更高效地背单词
 5 Tips to Get the Best Out of Quizlet :
 
 >  https://oxfordhousebcn.com/en/5-tips-to-get-the-best-out-of-quizlet/
+
+4 Communities Every Coder Should Join:
+> https://dev.to/codemouse92/4-communities-every-coder-should-join
+
+8 Online Communities for Book Lovers
+> https://www.outboxonline.com/social-networks-for-book-lovers/
